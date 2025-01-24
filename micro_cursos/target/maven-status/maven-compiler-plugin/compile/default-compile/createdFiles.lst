@@ -1,0 +1,6 @@
+com\espe\micro_cursos\MicroCursosApplication.class
+com\espe\micro_cursos\controllers\CursoController.class
+com\espe\micro_cursos\services\CursoService.class
+com\espe\micro_cursos\services\CursoServiceImpl.class
+com\espe\micro_cursos\repositories\CursoRepository.class
+com\espe\micro_cursos\models\entities\Curso.class
