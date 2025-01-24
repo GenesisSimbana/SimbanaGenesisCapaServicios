@@ -1,0 +1,6 @@
+com\espe\micro_usuarios\controllers\UsuarioController.class
+com\espe\micro_usuarios\MicroUsuariosApplication.class
+com\espe\micro_usuarios\repositories\UsuarioRepository.class
+com\espe\micro_usuarios\models\entities\Usuarios.class
+com\espe\micro_usuarios\services\UsuarioServiceImpl.class
+com\espe\micro_usuarios\services\UsuarioService.class
